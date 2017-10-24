@@ -1,0 +1,6 @@
+[server]
+listen.port = 8888
+
+[target]
+host=jodd.org
+port=80
